@@ -1,7 +1,7 @@
-#Tue Sep 27 22:37:26 PDT 2016
-base.0=C\:\\Users\\Tommy\\AndroidStudioProjects\\MasteryAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c0039c7500ab055614f562e4a3bd383f59bd791e
+#Tue Oct 04 14:51:14 PDT 2016
+base.0=C\:\\Users\\Kyle\\AndroidStudioProjects\\MasteryAssistant_Kyle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6f09a877bb89b26930dea0bf9a99099fc3e22720
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=C\:\\Users\\Tommy\\AndroidStudioProjects\\MasteryAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b37ee68ce1d526e704f58d9297d43bb2874139c8\\classes.dex
-base.1=C\:\\Users\\Tommy\\AndroidStudioProjects\\MasteryAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b37ee68ce1d526e704f58d9297d43bb2874139c8
-file.0=C\:\\Users\\Tommy\\AndroidStudioProjects\\MasteryAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c0039c7500ab055614f562e4a3bd383f59bd791e\\classes.dex
+file.1=C\:\\Users\\Kyle\\AndroidStudioProjects\\MasteryAssistant_Kyle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a93dbfb5196d7b047af03fc059efeb5692eee3cf\\classes.dex
+base.1=C\:\\Users\\Kyle\\AndroidStudioProjects\\MasteryAssistant_Kyle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a93dbfb5196d7b047af03fc059efeb5692eee3cf
+file.0=C\:\\Users\\Kyle\\AndroidStudioProjects\\MasteryAssistant_Kyle\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6f09a877bb89b26930dea0bf9a99099fc3e22720\\classes.dex

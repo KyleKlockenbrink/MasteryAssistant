@@ -3,174 +3,201 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1fab15838cc55c3753dff08815fd953888593607\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_559b3ef05ca8c5b05b91a110d1dd15d4b93216ae\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c87bde7ea57a178d30aa2f479796b31cf12ab7dc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_021cd9a7a8465df2c1b4f2c11482731fe924cdf3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6511b146ea2208b6c55e1e0bb6f71920463e5d95\classes.dex" />
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ab794ac8c3f39188daf1eb4333510aa8bc330b54\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_82d386371f8001c7dd2739da9d3c0103f1fdcfd0\classes.dex" />
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_a61334ef2839a330ab56ee370a4943f1651f3c8a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b3d987a9959890203b77dcbb65c231ba91c0053d">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b37ee68ce1d526e704f58d9297d43bb2874139c8\classes.dex" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2fda03ed6761646cbf04c05b7d120f20b67030c1\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_5360a943603f6b99b18dd4ba4f569122d673480f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e42ff3ce71d5866c4cc5b5ad283569619b29b774\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b8a4f2a366b611dd887c03acf15a7ac6729d18b2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7ade7c473d49cf13e624f9d44daa0460a4973d31\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_47eeab9a606453f57a058c1f624d7734107a550d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e864b99fa1a260bcc0ca3e72fcf8c2ab2270bd3a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_8426a5e2a841984d039b38cad794f204ee0b4a52\classes.dex" />
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_b29e9875a33cc18ecd39f08d433ee64ae98dce58\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_cef6be8d66c1994ba4f63faca7ae9f6b8af6a9d7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_fd669996f4ba624d87abfab493031d97ddd73c55\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0d5696e7712974dc6d716bb063cf6db681d863ac">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c0039c7500ab055614f562e4a3bd383f59bd791e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_e024aa088f78e918594d76656a83500965e23bde\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="C:\Users\Tommy\AndroidStudioProjects\MasteryAssistant\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5df78dbc1b37aad51a660c64d4c98cb46b6c1efa\classes.dex" />
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_5b226d19470dc6fe29ddbc2dc03058c33caa8e03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_82886079e84028ac646b8de8bb99dfb7c593e0f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_ca8399401810697b023110c7842a4d3b9357b466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_ce6b11658c813e008e6e5874a31e76847f793484\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9367fea4aaa401c8904a7d55d18102b586d7640">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a93dbfb5196d7b047af03fc059efeb5692eee3cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_2793fefea14946f787eef5b3c659fa3ca27cd04b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9d46f09e9b669baf74f88ef68fbf7c4249f63355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_4257843b9a0d1336458d34cfc9d96973250c75e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2c92acadfa67f276f82628bd1dc43a797fde5089\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_8394c018f35b696dc1f073d29d33ced638b2e981\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_8d0c4641f5f7844b0711e53045f0c006349bf207\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_31f94023747acb7c99193062e090da7987d00040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_409a6dd124d2cae3d45267f79f1dbe2dbbb12b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_0eadc72a060337c4a38a470f300842b2c52d881c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_3f5c09ce9933abffb10df06b87f8e6a8c671f30b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_c3c4ceee7197ff9610892bf44d12e9fbbbb27b9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="020f8c5959a0e102a0b94b459439fba85102abfc">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6f09a877bb89b26930dea0bf9a99099fc3e22720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Kyle\AndroidStudioProjects\MasteryAssistant_Kyle\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9dc9e233362f0f0e73a76eebf43cc8965c4ae510\classes.dex" />
     </item>
 
 </items>

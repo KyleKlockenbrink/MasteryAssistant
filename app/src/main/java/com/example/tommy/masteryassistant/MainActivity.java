@@ -13,7 +13,7 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 /* testing github from nathans laptop with this comment */
 public class MainActivity extends AppCompatActivity {
-
+    //push test to github//
     /**
      * ATTENTION: This was auto-generated to implement the App Indexing API.
      * See https://g.co/AppIndexing/AndroidStudio for more information.
